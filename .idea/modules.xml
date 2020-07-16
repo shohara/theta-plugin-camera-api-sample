@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/theta-plugin-camera-api-sample.iml" filepath="$PROJECT_DIR$/theta-plugin-camera-api-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="theta-plugin-camera-api-sample/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/theta-plugin-camera-api-sample.iml" filepath="$PROJECT_DIR$/.idea/modules/theta-plugin-camera-api-sample.iml" group="theta-plugin-camera-api-sample" />
     </modules>
   </component>
 </project>
